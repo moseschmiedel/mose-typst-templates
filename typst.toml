@@ -1,0 +1,14 @@
+[package]
+name = "mose-typst-templates"
+version = "0.1.0"
+compiler = "0.11.0"
+entrypoint = "src/library.typ"
+
+authors = ["Mose Schmiedel <mose@schmiednet.de>"]
+
+repository = "https://github.com/moseschmiedel/mose-typst-templates"
+license = "MIT"
+
+keywords = ["template", "assignment", "homework"]
+description = "Library of templates for assignments, homeworks"
+categories = ["layout", "paper", "report" ]
