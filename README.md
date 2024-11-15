@@ -11,4 +11,4 @@ to [fork](https://github.com/moseschmiedel/mose-typst-templates/fork) this repos
 
 ## List of Templates
 
--   **assignment**: Template for simple university assignments or homework.
+-   [**assignment**](src/assignment.typ): Template for simple university assignments or homework.
